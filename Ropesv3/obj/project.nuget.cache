@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7TZPjzhIENrpPcC8ksdOJrvMVo/unUz1wqBZDWvrxts5CjzFsf8BpVTTbtdJdRausSwirQwIdrGjj9YUlERPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brian\\OneDrive\\Desktop\\University\\Ropes-master (1)\\Ropes-master\\Ropesv3\\Ropesv3\\Ropesv3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\brian\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
