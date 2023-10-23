@@ -1,7 +1,7 @@
 ﻿/* Name: Rope Data Structure
  * Author: Brianna Drew
- * Date Created: February 10th, 2020
- * Last Modified: March 8th, 2020
+ * Date Created: February 10th, 2022
+ * Last Modified: October 23rd, 2023
  * */
 
 using System;
