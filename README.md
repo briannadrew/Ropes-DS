@@ -8,7 +8,7 @@ This is a C# complex simulation of a Rope data structure, often used for string 
 
 ## Installation
 
-1. To use this program, ensure you have the latest edition of Microsoft Visual Studio installed on your computer.
+1. To use this program, ensure you have the latest edition of [Microsoft Visual Studio](https://visualstudio.microsoft.com/#vs-section) installed on your computer.
 
 2. Download this repository as a zip file to your machine.
 
